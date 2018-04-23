@@ -106,6 +106,14 @@ export const LIBRARIES_LIST = [
       library: 'https://tenso.rs/',
     },
   },
+  {
+    title: `botbrains`,
+    description: `Library for creating and visualizing Asynchronous Neural Networks in JavaScript, ideal for bringing robots to life. Botbrains uses a 3rd Generation 'Spiking' Neural Network that models neuron behaviour more closely by introducing a slight firing delay, generating intricate patterns that resemble those observed in biological brains and can be taught to interact with its environment through behavioural reinforcement.`,
+    values: {
+      power: 'Neural Networks, WebGL, Arduino, Robotics',
+      library: 'https://github.com/sdesalas/botbrains',
+    },
+  },
 ];
 
 export const LIBRARIES_MAIN = {
